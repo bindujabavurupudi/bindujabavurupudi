@@ -13,25 +13,33 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-#### 💻 Frontend
-- React
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
+#### 💻 Programming Languages
+- C  
+- C++  
+- Java  
+- Python  
+- SQL  
 
-#### 🧠 Backend
-- Node.js
-- Express.js
-- MongoDB
+#### 🌐 Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
 
-#### ⚙️ Tools
-- Git & GitHub
-- VS Code
-- Vite
-- Framer Motion
+#### ⚛️ Frameworks
+- React.js  
+- Express.js  
+
+#### 🗄️ Databases
+- Supabase  
+- Firebase  
+
+#### 🧰 Tools
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
 
 ---
 
