@@ -1,12 +1,12 @@
 # Hi 👋, I'm Binduja Bavurupudi  
 
-**Full Stack Developer | MERN Stack Enthusiast | DSA Problem Solver**
+**Full Stack MERN Developer | Problem Solver | DSA Enthusiast**
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) Student 
+🎓 B.Tech CSE (AI & ML) Student  
 💻 Aspiring Full Stack MERN Developer  
 💡 Strong problem-solving mindset with the ability to write clean, efficient, and optimized code  
 🚀 Passionate about building scalable, real-world web applications  
@@ -17,29 +17,27 @@
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages
-C • C++ • Java • Python • SQL  
+• C • C++ • Java • Python • SQL  
 
 ### 🌐 Web Technologies
-HTML • CSS • JavaScript  
+• HTML • CSS • JavaScript  
 
 ### ⚛️ Frameworks & Libraries
-React.js • Express.js • Node.js • TypeScript • Tailwind CSS  
+• React.js • Express.js • Node.js • TypeScript • Tailwind CSS  
 
 ### 🗄️ Databases & Backend Services
-Supabase • Firebase  
+• Supabase • Firebase  
 
 ### 🧰 Tools
-Git • GitHub • VS Code • Postman 
+• Git • GitHub • VS Code • Postman  
 
 ---
-
 
 ## 🌐 Connect With Me  
 
 💼 LinkedIn: https://www.linkedin.com/in/binduja-bavurupudi/  
 📧 Email: bindujabavurupudi2006@gmail.com  
 🌐 Portfolio: https://bindujabavurupudi.github.io/portfolio  
-
 
 ---
 
