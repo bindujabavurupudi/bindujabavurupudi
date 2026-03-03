@@ -1,68 +1,45 @@
-<h1 align="center">Hi 👋, I'm Binduja Bavurupudi</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Problem Solver</h3>
+# Hi 👋, I'm Binduja Bavurupudi  
+
+**Full Stack Developer | MERN Stack Enthusiast | DSA Problem Solver**
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Student passionate about technology  
-- 💻 Full Stack Developer skilled in MERN Stack  
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- 🚀 Love building scalable and user-friendly web applications  
-- 🌱 Currently learning advanced backend & system design  
-
----
-
-### 🛠️ Technical Skills
-
-#### 💻 Programming Languages
-- C  
-- C++  
-- Java  
-- Python  
-- SQL  
-
-#### 🌐 Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-
-#### ⚛️ Frameworks
-- React.js  
-- Express.js  
-
-#### 🗄️ Databases
-- Supabase  
-- Firebase  
-
-#### 🧰 Tools
-- Git  
-- GitHub  
-- VS Code  
-- Postman  
+🎓 B.Tech CSE (AI & ML) Student 
+💻 Aspiring Full Stack MERN Developer  
+💡 Strong problem-solving mindset with the ability to write clean, efficient, and optimized code  
+🚀 Passionate about building scalable, real-world web applications  
+🌱 Currently exploring advanced backend development & system design  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bindujabavurupudi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindujabavurupudi&theme=radical" />
-</p>
+### 💻 Programming Languages
+C • C++ • Java • Python • SQL  
+
+### 🌐 Web Technologies
+HTML • CSS • JavaScript  
+
+### ⚛️ Frameworks & Libraries
+React.js • Express.js • Node.js • TypeScript • Tailwind CSS  
+
+### 🗄️ Databases & Backend Services
+Supabase • Firebase  
+
+### 🧰 Tools
+Git • GitHub • VS Code • Postman 
 
 ---
 
-### 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/binduja-bavurupudi/
-- 📧 Email: bindujabavurupudi2006@gmail.com
-- 🌐 Portfolio: https://bindujabavurupudi.github.io/portfolio
+## 🌐 Connect With Me  
 
----
+💼 LinkedIn: https://www.linkedin.com/in/binduja-bavurupudi/  
+📧 Email: bindujabavurupudi2006@gmail.com  
+🌐 Portfolio: https://bindujabavurupudi.github.io/portfolio  
 
-### ✨ Fun Fact
-
-I believe coding is not just writing programs — it's building solutions that make impact 🚀
 
 ---
 
