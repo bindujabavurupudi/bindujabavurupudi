@@ -17,13 +17,13 @@
 ## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages
-• C • C++ • Java • Python • SQL  
+• C • C++  • Python • SQL  
 
 ### 🌐 Web Technologies
 • HTML • CSS • JavaScript  
 
 ### ⚛️ Frameworks & Libraries
-• React.js • Express.js • Node.js • TypeScript • Tailwind CSS  
+• React.js • Express.js 
 
 ### 🗄️ Databases & Backend Services
 • Supabase • Firebase  
